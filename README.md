@@ -358,24 +358,6 @@ Each benchmark runs a 10-operation warm-up before the actual measurement, ensuri
 - [Project Loom](https://wiki.openjdk.org/display/loom)
 - [ExecutorService Documentation](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/ExecutorService.html)
 
-## 📖 Documentation
-
-| File | Description |
-|------|-------------|
-| **README.md** | Project overview (this file) |
-| **QUICKSTART.md** | Quick start guide with all commands |
-| **CONFIGURATION.md** | How to customize workloads and settings |
-| **ANALYSIS.md** | Detailed analysis of results and insights |
-| **TROUBLESHOOTING.md** | Common troubleshooting |
-
-### Execution Scripts
-
-| Script | Purpose |
-|--------|---------|
-| `./build.sh` | Compiles the project |
-| `./run-demo.sh` | Runs quick demo (~30s) |
-| `./run.sh` | Runs full benchmark (~5min) |
-| `./menu.sh` | Interactive menu with all options |
 
 ## 👤 Author
 
